@@ -1,4 +1,6 @@
-﻿# " List of availble commands:
+# These are based off DellBIOS Provicer package: https://www.powershellgallery.com/packages/DellBIOSProvider/2.7.0
+
+﻿# List of availble commands:
 # Import-Module DellSmbios
 # Get-DellBIOSSetting -Namespace "root\dcim\sysman" -CimSession $smbiosSession
 # $smbiosSession = New-CimSession -ComputerName "localhost" -Namespace "root\dcim\sysman"
