@@ -1,9 +1,11 @@
 ﻿<#
-You will need to install the PSWindows using the following:
+You will need to install the PSWindowsUpdate module using the following:
 
 
-Install-Module PSWindowsUpdate
->> Add-WUServiceManager -MicrosoftUpdate
+-- Install-Module PSWindowsUpdate
+
+-- Add-WUServiceManager -MicrosoftUpdate
+
 #>
 
 #Testing for Admin
